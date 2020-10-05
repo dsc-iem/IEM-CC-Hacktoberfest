@@ -1,4 +1,5 @@
 ##FACEBOOK HACKERCUP QUESTION
+
 2020 has been a tough year for international players as they have to travel through different countries during the pandemic. To minimize the spread of COVID-19, each airline has decided to reorganize all of their flight routes in a linear fashion.
 
 An airline's flights normally service N countries, running in various directions. Amidst the pandemic, each airline has carefully arranged these N countries in a sequence with each assigned a number from 1 to N .
