@@ -26,6 +26,6 @@ vii. **Chef and Recipe**: https://www.codechef.com/COOK118B/problems/CHEFRECP ( 
 
 viii. **Three Friends**: https://codeforces.com/problemset/problem/1272/A ( Head to [folder](https://github.com/dsc-iem/IEM-CC-Hacktoberfest/tree/master/Three%20Friends) for more details)
 
-ix. **Help City!!**: https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/A(Head to [folder](https://github.com/dsc-iem/IEM-CC-Hacktoberfest/tree/master/Help%20City) for more details)
+ix. **Help City!!**: https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/A ( Head to [folder](https://github.com/dsc-iem/IEM-CC-Hacktoberfest/tree/master/Help%20City) for more details)
 
 `Happy Coding!` :thumbsup:
